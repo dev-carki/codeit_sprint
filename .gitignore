@@ -1,0 +1,31 @@
+# Python 가상환경 무시
+.venv/
+venv/
+
+# Jupyter 노트북 캐시 무시
+__pycache__/
+.ipynb_checkpoints/
+
+# 로그 파일, 캐시 파일 등
+*.log
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+
+# 데이터 파일 (옵션)
+*.csv
+*.h5
+*.pt
+*.pth
+*.npz
+*.npy
+
+# 모델 가중치
+checkpoints/
+runs/
+outputs/
+models/
+
+# IDE 설정
+.vscode/
