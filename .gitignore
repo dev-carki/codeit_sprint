@@ -29,3 +29,5 @@ models/
 
 # IDE 설정
 .vscode/
+
+common/data/
