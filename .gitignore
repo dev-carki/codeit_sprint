@@ -1,6 +1,7 @@
 # Python 가상환경 무시
 .venv/
 venv/
+codeit/
 
 # Jupyter 노트북 캐시 무시
 __pycache__/

@@ -3,30 +3,31 @@
 #
 
 
-# ë”¥ëŸ¬ë‹ í”„ë ˆìž„ì›Œí¬
+# µö·¯´× ÇÁ·¹ÀÓ¿öÅ©
 torch
 torchvision
 torchaudio
+torchinfo
 
-# window + CUDA ê°œë³„ì„¤ì¹˜
+# window + CUDA °³º°¼³Ä¡
 # pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 
-# ë°ì´í„° ì „ì²˜ë¦¬ & ì¡°ìž‘
+# µ¥ÀÌÅÍ ÀüÃ³¸® & Á¶ÀÛ
 numpy
 pandas
 scikit-learn
 matplotlib
 seaborn
 
-# ì´ë¯¸ì§€ ê´€ë ¨ ìœ í‹¸
+# ÀÌ¹ÌÁö °ü·Ã À¯Æ¿
 Pillow
 opencv-python
 
-# Jupyter í™˜ê²½
+# Jupyter È¯°æ
 notebook
 jupyterlab
 ipykernel
 
-# ê¸°íƒ€ ìœ ìš©í•œ ë„êµ¬
+# ±âÅ¸ À¯¿ëÇÑ µµ±¸
 tqdm
 certifi>=2024.2.2
