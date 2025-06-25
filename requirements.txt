@@ -1,33 +1,23 @@
-#
-# pip freeze > requirements.txt
-#
 
 
-# 딥러닝 프레임워크
 torch
 torchvision
 torchaudio
 torchinfo
 
-# window + CUDA 개별설치
-# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 
-# 데이터 전처리 & 조작
 numpy
 pandas
 scikit-learn
 matplotlib
 seaborn
 
-# 이미지 관련 유틸
 Pillow
 opencv-python
 
-# Jupyter 환경
 notebook
 jupyterlab
 ipykernel
 
-# 기타 유용한 도구
 tqdm
 certifi>=2024.2.2
