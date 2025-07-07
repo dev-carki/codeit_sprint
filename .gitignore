@@ -3,6 +3,10 @@
 venv/
 codeit/
 
+# env
+.env/
+env/
+
 # Jupyter 노트북 캐시 무시
 __pycache__/
 .ipynb_checkpoints/
@@ -32,3 +36,4 @@ models/
 .vscode/
 
 common/data/
+common/config/
